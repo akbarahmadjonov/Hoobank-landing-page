@@ -920,6 +920,10 @@ p {
   font-size: 20px;
 }
 
+.copy__networks a:hover {
+  color: #50cbcf;
+}
+
 .copy__links li {
   list-style: none;
 }
