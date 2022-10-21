@@ -279,6 +279,10 @@ img {
   justify-content: space-between;
 }
 
+.users__rating--active {
+  padding-left: 0;
+}
+
 .users__rating li {
   list-style: none;
 }
